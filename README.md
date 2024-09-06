@@ -1,6 +1,6 @@
-21 years old 
-Computer engineering student at Politecnico di Milano
-Currently studying at Universidad Complutense de Madrid
+- 21 years old <br>
+- Computer engineering student at Politecnico di Milano <br>
+- Currently studying at Universidad Complutense de Madrid<br>
 
 <!---
 FlavioMili/FlavioMili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
