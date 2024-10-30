@@ -1,8 +1,15 @@
-- 21 years old <br>
-- Computer engineering student at Politecnico di Milano <br>
-- Currently studying at Universidad Complutense de Madrid<br>
+# 💻 Flavio Milinanni
 
-<!---
-FlavioMili/FlavioMili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Computer Engineering Student**  
+Politecnico di Milano | Currently at Universidad Complutense de Madrid  
+**21 years old**
+
+---
+
+### 📊 GitHub Stats
+![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioMili&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMili&layout=compact&theme=radical)
+
+---
+### 🌍 Connect with Me
+- [LinkedIn](https://linkedin.com/in/flavio-mili)
