@@ -1,7 +1,7 @@
 # 💻 Flavio Milinanni
 
 **Computer Engineering Student**  
-Politecnico di Milano | Currently at Universidad Complutense de Madrid  
+Politecnico di Milano | Universidad Complutense de Madrid  
 **21 years old**
 
 ---
