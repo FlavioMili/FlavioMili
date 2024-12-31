@@ -1,15 +1,31 @@
-# 💻 Flavio Milinanni
+# Flavio Milinanni 👨‍💻
 
-**Computer Engineering Student**  
-Politecnico di Milano | Universidad Complutense de Madrid  
-**21 years old**
+## About Me 🎓
+Computer Engineering Student passionate about innovative technologies and software development. Currently pursuing a dual education experience between:
+- 🇮🇹 **Politecnico di Milano**
+- 🇪🇸 **Universidad Complutense de Madrid**
 
----
+## Tech Stack 🛠️
 
-### 📊 GitHub Stats
-![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioMili&show_icons=true&theme=radical)
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Areas of Interest 🔍
+- 🚀 High Performance Computing
+- ♟️ Artificial Intelligence
+- 🎮 Game Development
+
+## GitHub Analytics 📊
+![Flavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioMili&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMili&layout=compact&theme=radical)
 
+## Current Goals 🎯
+- 🔥 Learning more about low-latency systems and high performance computing
+- 🌐 Getting knowledge in distributed systems
+- ♟️ Building a chess engine from scratch
+
 ---
-### 🌍 Connect with Me
-- [LinkedIn](https://linkedin.com/in/flavio-mili)
+💬 *Feel free to reach out for collaborations or just a chat!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-mili)
