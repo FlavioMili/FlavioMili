@@ -1,7 +1,8 @@
 # Flavio Milinanni 👨‍💻
 
 ## About Me 🎓
-Computer Engineering Student passionate about innovative technologies and software development. Currently pursuing a dual education experience between:
+Computer Engineering Student passionate about innovative technologies and software development.
+Education in computer engineering and computer science:
 - 🇮🇹 **Politecnico di Milano**
 - 🇪🇸 **Universidad Complutense de Madrid**
 
