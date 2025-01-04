@@ -27,5 +27,5 @@ Computer Engineering Student passionate about innovative technologies and softwa
 - ♟️ Building a chess engine from scratch
 
 ---
-💬 *Feel free to reach out for collaborations or just a chat!*
+💬 *Feel free to reach out for collaborations or just a chat!*<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-mili)
