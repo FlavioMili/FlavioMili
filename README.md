@@ -1,5 +1,5 @@
 # Flavio Milinanni 👨‍💻
-
+*I enjoy solving problems using efficient solutions*
 ## About Me 🎓
 Computer Engineering Student passionate about innovative technologies and software development.
 Education in computer engineering and computer science:
