@@ -14,7 +14,6 @@ Education in computer engineering and computer science:
 
 ## Current Goals 🎯
 - 🔥 Learning more about low-latency systems and high performance computing
-- 🌐 Getting knowledge in distributed systems
 - ♟️ Building a chess engine from scratch
 
 
