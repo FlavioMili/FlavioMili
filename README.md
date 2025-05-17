@@ -1,5 +1,4 @@
 # Flavio Milinanni 👨‍💻
-*I enjoy solving problems using efficient solutions*
 ## About Me 🎓
 Computer Engineering Student passionate about software development. <br>
 Education in computer engineering and computer science:
@@ -9,7 +8,6 @@ Education in computer engineering and computer science:
 
 ## Areas of Interest 🔍
 - 🚀 High Performance Computing
-- ♟️ Artificial Intelligence
 - 🎮 Game Development
 
 ## Current Goals 🎯
