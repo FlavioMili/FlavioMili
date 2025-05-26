@@ -28,4 +28,5 @@ Education in computer engineering and computer science:
 
 ## GitHub Analytics 📊
 ![Flavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavioMili&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMili&layout=compact&theme=radical)
