@@ -1,9 +1,9 @@
 # Flavio Milinanni 👨‍💻
 ## About Me 🎓
-Computer Engineering Student passionate about software development. <br>
-Education in computer engineering and computer science:
-- 🇮🇹 **Politecnico di Milano**
-- 🇪🇸 **Universidad Complutense de Madrid**
+Computer Science Student passionate about software development. <br>
+- 🇩🇪 **Karlsruhe Institute of Technology** MSc Computer Science
+- 🇮🇹 **Politecnico di Milano** BSc Computer Engineering
+- 🇪🇸 **Universidad Complutense de Madrid** BSc Computer Engineering Erasmus
 ---
 
 ## Areas of Interest 🔍
@@ -13,6 +13,7 @@ Education in computer engineering and computer science:
 ## Current Goals 🎯
 - 🔥 Learning more about low-latency systems and high performance computing
 - ♟️ Building a chess engine from scratch
+- ⚽ Continue improving my [Football Management Game Project](https://github.com/FlavioMili/FootballManagement)
 
 
 ## Programming Languages 🛠️
