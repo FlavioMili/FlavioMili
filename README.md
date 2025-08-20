@@ -1,7 +1,6 @@
 # Flavio Milinanni 👨‍💻
 ## About Me 🎓
 Computer Science Student passionate about software development. <br>
-- 🇩🇪 **Karlsruhe Institute of Technology** MSc Computer Science
 - 🇮🇹 **Politecnico di Milano** BSc Computer Engineering
 - 🇪🇸 **Universidad Complutense de Madrid** BSc Computer Engineering Erasmus
 ---
