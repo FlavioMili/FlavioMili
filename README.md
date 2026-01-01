@@ -11,9 +11,9 @@ Computer Science Student passionate about software development. <br>
 - 🎮 Game Development
 
 ## Current Goals 🎯
-- ♟️ Improve [my chess bot](https://github.com/FlavioMili/FoChess) until it does not become quite good
-- ⚽ [[unlikely]] Continue developing my [Football Management Game Project](https://github.com/FlavioMili/FootballManagement)
 - 🔥 Learning more about low-latency systems and high performance computing
+- ♟️ (slowly) Improve [my chess bot](https://github.com/FlavioMili/FoChess) until it does not become quite good
+- ⚽ (maybe) Continue developing my [Football Management Game Project](https://github.com/FlavioMili/FootballManagement)
 
 
 ## Programming Languages 🛠️
